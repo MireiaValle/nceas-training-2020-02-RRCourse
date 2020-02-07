@@ -1,0 +1,26 @@
+Package: placeholder
+Type: Book
+Title: Does not matter.
+Version: 0.0.2
+Imports: 
+    bookdown,
+    datapack,
+    dplyr,
+    DT,
+    ggmap,
+    ggplot2,
+    ggpmisc,
+    gridExtra,
+    kableExtra,
+    knitr,
+    leaflet,
+    ncdf4,
+    sf,
+    scales,
+    tidyr,
+    htmlwidgets,
+    MASS,
+    doParallel,
+    foreach,
+    parallel
+Remotes: rstudio/bookdown

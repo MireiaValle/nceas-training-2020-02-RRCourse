@@ -1,0 +1,17 @@
+# OSX
+*.DS_Store
+
+# R
+.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+# bookdown files
+*/_book/*
+*/_bookdown_files/*
+
+# html files
+*.html
